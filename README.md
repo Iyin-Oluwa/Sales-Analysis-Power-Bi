@@ -82,15 +82,15 @@ Excel spreadsheets with detailed product and regional sales data.
 ### Insights Gained
 
 - Segmentation Analysis: Government Segment
-Our segmentation analysis has uncovered that the government segment not only delivers consistently higher profit margins but also contributes significantly to our overall profitability, generating over 11.3 million in profit. Additionally, this segment accounts for a substantial gross sales figure of 56.4 million.
+Our segmentation analysis has uncovered that the government segment not only delivers consistently higher profit margins but also contributes significantly to our overall profitability, generating over $11.3 million in profit. Additionally, this segment accounts for a substantial gross sales figure of $56.4 million.
 
    This insight directs our strategic focus, empowering us to tailor targeted marketing strategies and allocate resources effectively to maximize profitability within this lucrative segment.
 
 - Top-Performing Products:
-Analysis of product performance has identified "Paseo" as our top-performing product, contributing significantly to our overall revenue with over 3 million in profit from key markets including Canada, France, Germany, Mexico, and the United States of America. These products not only drive sales but also play a crucial role in influencing customer buying decisions. Focusing strategically on "Paseo" and similar top performers will enhance our market presence and customer loyalty.
+Analysis of product performance has identified "Paseo" as our top-performing product, contributing significantly to our overall revenue with over $3 million in profit from key markets including Canada, France, Germany, Mexico, and the United States of America. These products not only drive sales but also play a crucial role in influencing customer buying decisions. Focusing strategically on "Paseo" and similar top performers will enhance our market presence and customer loyalty.
 
 - Regional Analysis: USA Revenue Share
-Our analysis of regional sales data has identified the USA as a top revenue generator, contributing 25 million in sales. This insight highlights strong regional performance and provides valuable insights into local preferences and behaviors.
+Our analysis of regional sales data has identified the USA as a top revenue generator, contributing $25 million in sales. This insight highlights strong regional performance and provides valuable insights into local preferences and behaviors.
 
   This understanding allows us to develop targeted marketing campaigns and strategies tailored to capitalize on the USA market's strengths effectively, optimizing sales performance and market penetration.
 
