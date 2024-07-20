@@ -19,12 +19,10 @@ This sales analysis provides an in-depth analysis of sales data from 2013 to 201
 
 
 
-![Screenshot (59)](https://github.com/user-attachments/assets/e4575dd7-8535-4511-973a-0101d4283e4f)
+![Sales A](https://github.com/user-attachments/assets/41524071-e880-4e00-8d00-ebd985ee96f5)
 
 
-![Screenshot (60)](https://github.com/user-attachments/assets/3642e337-7701-4ca0-95f3-8d5cf8e19bda)
-
-
+![S A](https://github.com/user-attachments/assets/fd5f0bab-e574-44b4-9760-b30a804d64cd)
 
 
 ### Objective
